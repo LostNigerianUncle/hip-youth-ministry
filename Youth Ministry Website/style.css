@@ -1,0 +1,135 @@
+body {
+background-color: Dodgerblue;
+font-family: helvetica, sans-serif;
+}
+
+h2 {
+font-family: helvetica, sans-serif;
+text-align: center;
+font-size: 50px;
+}
+
+h3 {
+float: right;
+padding: 20px;
+font-size: 20px;
+}
+
+h4 {
+color: white;
+font-family: helvetica, sans-serif;
+font-size: 20px;
+}
+
+h5 {
+color: white;
+font-family: helvetica, sans-serif;
+font-size: 50px;
+text-align: center;
+}
+
+h6 {
+color: white;
+font-family: helvetica, sans-serif;
+font-size: 20px;
+}
+
+p {
+color: white;
+font-family: helvetica, sans-serif;
+font-size: 20px;
+}
+
+ol {
+color: white;
+font-family: helvetica, sans-serif;
+font-size: 20px;
+}
+
+figcaption {
+color: white;
+font-family: helvetica, sans-serif;
+text-align: center;
+padding: 5px;
+}
+
+#john {
+color: white;
+font-family: timesnewroman, serif;
+text-align: center;
+font-size: 30px;
+}
+
+.articleimage {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.articletext {
+color: white;
+font-family: helvetica, sans-serif;
+font-size: 30px;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+.quote {
+color: white;
+font-family: helvetica, sans-serif;
+font-size: 30px;
+text-align: center;
+}
+
+.column {
+flex: 33.33%;
+padding: 5px;
+}
+
+.row {
+display: flex;
+}
+
+.footericons {
+display: flex;
+justify-content: center;
+}
+
+header {
+display: block;
+}
+
+footer {
+position: static;
+margin-bottom: -50px;
+margin-left: -5px;
+margin-right: -5px;
+padding: 30px;
+height: 150px;
+background-color: #4da6ff;
+color: white;
+}
+
+a:link {
+color: white;
+background-color: transparent;
+text-decoration: none;
+}
+
+a:visited {
+color: white;
+background-color: transparent;
+text-decoration: none;
+}
+
+a:hover {
+color: blue;
+background-color: transparent;
+text-decoration: none;
+}
+
+a:active {
+color: darkblue;
+background-color: transparent;
+text-decoration: none;
+}
