@@ -1,0 +1,1 @@
+Hip Youth Ministry is a website where you can learn about a variety of topics relating to Catholic Youth Groups. Hip Youth Ministry presents these topics in a way that appeals to young people who want to learn more about their Catholic faith and why it is important throughout their lives.
